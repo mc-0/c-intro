@@ -7,5 +7,6 @@
 
 void ftoc();
 void ctof();
+void temps();
 
 #endif //TEMP_H
