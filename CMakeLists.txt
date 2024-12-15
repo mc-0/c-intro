@@ -3,4 +3,4 @@ project(c_intro C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(c_intro main.c intro/count.c)
+add_executable(c_intro main.c pointers/find.c)
